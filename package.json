@@ -1,0 +1,27 @@
+{
+  "name": "IRIS",
+  "version": "0.1.0",
+  "description": "A sample Node.js app using Express 3.4.4",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.4"
+	"mysql"	: "*"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sudhanshu1987/IRIS.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+	"mysql"
+  ],
+  "author": "Sudhanshu"
+}
